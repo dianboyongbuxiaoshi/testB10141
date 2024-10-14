@@ -1,0 +1,6 @@
+[ Wed Sep 18 16:15:53 2024 ] Load weights from ./runs/uav-14-7695.pt.
+[ Wed Sep 18 16:15:58 2024 ] using warm up, epoch: 0
+[ Wed Sep 18 17:06:28 2024 ] Load weights from ./runs/uav-14-7695.pt.
+[ Wed Sep 18 17:06:32 2024 ] using warm up, epoch: 0
+[ Wed Sep 18 17:16:58 2024 ] Load weights from ./runs/uav-14-7695.pt.
+[ Wed Sep 18 17:17:03 2024 ] using warm up, epoch: 0

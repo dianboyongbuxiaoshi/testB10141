@@ -1,0 +1,30 @@
+[ Thu Sep 26 16:46:00 2024 ] Load weights from ./runs/uav-48-25137.pt.
+[ Thu Sep 26 16:46:00 2024 ] using warm up, epoch: 0
+[ Tue Oct  8 13:21:02 2024 ] Load weights from ./runs/uav-44-23085.pt.
+[ Tue Oct  8 13:21:03 2024 ] using warm up, epoch: 0
+[ Tue Oct  8 13:22:11 2024 ] Load weights from ./runs/uav-48-25137.pt.
+[ Tue Oct  8 13:22:12 2024 ] using warm up, epoch: 0
+[ Tue Oct  8 13:23:51 2024 ] Load weights from ./runs/uav-47-24624.pt.
+[ Tue Oct  8 13:23:52 2024 ] using warm up, epoch: 0
+[ Tue Oct  8 13:25:33 2024 ] Load weights from ./runs/uav-48-25137.pt.
+[ Tue Oct  8 13:25:33 2024 ] using warm up, epoch: 0
+[ Tue Oct  8 13:27:29 2024 ] Load weights from ./runs/uav-49-25650.pt.
+[ Tue Oct  8 13:27:29 2024 ] using warm up, epoch: 0
+[ Tue Oct  8 13:28:35 2024 ] Load weights from ./runs/uav-46-24111.pt.
+[ Tue Oct  8 13:28:36 2024 ] using warm up, epoch: 0
+[ Tue Oct  8 13:29:18 2024 ] Load weights from ./runs/uav-45-23598.pt.
+[ Tue Oct  8 13:29:19 2024 ] using warm up, epoch: 0
+[ Tue Oct  8 13:30:35 2024 ] Load weights from ./runs/uav-31-16416.pt.
+[ Tue Oct  8 13:30:35 2024 ] using warm up, epoch: 0
+[ Tue Oct  8 13:31:33 2024 ] Load weights from ./runs/uav-32-16929.pt.
+[ Tue Oct  8 13:31:34 2024 ] using warm up, epoch: 0
+[ Tue Oct  8 13:32:39 2024 ] Load weights from ./runs/uav-42-22059.pt.
+[ Tue Oct  8 13:32:40 2024 ] using warm up, epoch: 0
+[ Tue Oct  8 13:33:41 2024 ] Load weights from ./runs/uav-43-22572.pt.
+[ Tue Oct  8 13:33:42 2024 ] using warm up, epoch: 0
+[ Tue Oct  8 13:34:48 2024 ] Load weights from ./runs/uav-44-23085.pt.
+[ Tue Oct  8 13:34:48 2024 ] using warm up, epoch: 0
+[ Tue Oct  8 13:35:30 2024 ] Load weights from ./runs/uav-43-22572.pt.
+[ Tue Oct  8 13:35:30 2024 ] using warm up, epoch: 0
+[ Mon Oct 14 18:36:30 2024 ] Load weights from ./runs/uav-43-22572.pt.
+[ Mon Oct 14 18:36:31 2024 ] using warm up, epoch: 0

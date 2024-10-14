@@ -1,0 +1,2 @@
+[ Mon Oct 14 18:49:05 2024 ] Load weights from ./runs/uav-43-22572.pt.
+[ Mon Oct 14 18:49:05 2024 ] using warm up, epoch: 0
